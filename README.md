@@ -8,7 +8,7 @@ Terminal application manager for windows. If you don't want to bother too much w
  
  I have my script saved on a notepad incase I have to reset windows or set up a new PC, turns something that takes hours into something that takes minutes.
 
-https://preview.redd.it/ximwlhg5jhi91.png?width=1918&amp;format=png&amp;auto=webp&amp;s=ef9f76d554f86c7ef77a4c785a1916ba6aa28ab2
+![Winstall](images/1.webp)
 
 # [Filelight (Better than WinDirStat)](https://www.microsoft.com/store/apps/9PFXCD722M2C)
 
