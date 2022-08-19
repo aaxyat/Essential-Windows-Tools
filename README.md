@@ -14,7 +14,7 @@ Terminal application manager for windows. If you don't want to bother too much w
 
 It is open source (Made by KDE Devs), faster and better looking.
 
-[You can hover over each subsection to get more details.](./Images/2.png)
+![You can hover over each subsection to get more details.](./Images/2.png)
 
 # [Flow Launcher (Better than windows search)](https://www.flowlauncher.com/)
 
